@@ -16,6 +16,8 @@ Additionally, the GPT excels in creating branding concepts for cannabis strains.
 ![Weed](https://github.com/user-attachments/assets/8fd8e45c-ffa2-4e47-ae10-e1e16348d1f0)
 #
 ![Weedcopter](https://github.com/user-attachments/assets/63319705-fe1b-401b-9e98-11633e6d3a0d)
+#
+![International Weed Crate](https://github.com/user-attachments/assets/ede282b7-98c1-4048-b5ad-53a2e3ee1a94)
 
 #
 ### Related Links
