@@ -25,6 +25,8 @@ Additionally, the GPT excels in creating branding concepts for cannabis strains.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Bud Business](https://github.com/sourceduty/Bud_Business)
+<br>
+[Botanical Diagnostics](https://github.com/sourceduty/Botanical_Diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
