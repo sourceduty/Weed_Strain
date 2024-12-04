@@ -33,6 +33,8 @@ However, any content that promotes illegal activities, irresponsible use, or vio
 [Bud Business](https://github.com/sourceduty/Bud_Business)
 <br>
 [Botanical Diagnostics](https://github.com/sourceduty/Botanical_Diagnostics)
+<br>
+[Cannabis](https://github.com/sourceduty/Cannabis)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
